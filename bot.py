@@ -2,7 +2,7 @@ import telebot
 import requests
 import keyboard
 
-token = "1799069483:AAHloz58EQ_4ezixWCli4Wb3oXPgzP4cQxY"
+token = ""
 URL = "http://127.0.0.1:5000/action/"
 rus_cats = {
     "business": "Бизнес",
